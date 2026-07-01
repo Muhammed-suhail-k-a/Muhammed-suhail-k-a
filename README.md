@@ -40,14 +40,14 @@ I'm passionate about leveraging **Artificial Intelligence, Machine Learning, Dat
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/k-a-muhammed-suhail-626b463a6/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/k-a-muhammed-suhail" target="_blank">
+    <img src="https://raw.githubusercontent.com/Muhammed-suhail-k-a/Muhammed-suhail-k-a/main/assets/badges/linkedin-badge.svg" />
   </a>
   <a href="mailto:muhammedsuhail543a@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://raw.githubusercontent.com/Muhammed-suhail-k-a/Muhammed-suhail-k-a/main/assets/badges/email-badge.svg" />
   </a>
   <a href="https://github.com/Muhammed-suhail-k-a" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://raw.githubusercontent.com/Muhammed-suhail-k-a/Muhammed-suhail-k-a/main/assets/badges/github-badge.svg" />
   </a>
 </p>
 
